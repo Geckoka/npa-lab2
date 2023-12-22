@@ -8,4 +8,3 @@ echo $(date) "Server ID: $server"
 speedtest-cli --secure --server $server --csv >> speedtest-chotipat.csv
 echo "Done"
 done
-$
